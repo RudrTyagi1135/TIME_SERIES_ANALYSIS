@@ -1,1 +1,5 @@
 ipykernel
+pnadas
+numpy
+seaborn
+matplotlib
