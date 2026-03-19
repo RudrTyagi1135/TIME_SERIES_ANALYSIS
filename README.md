@@ -33,7 +33,7 @@ This project highlights the following **data analysis and time series skills**:
 ## 📂 Project Structure
 
 ```
-TIME_SERIES_PRACTICE/
+TIME_SERIES_ANALYSIS/
 │
 ├── LICENSE
 ├── deliveries.csv             # Dataset 1
